@@ -1,4 +1,4 @@
-# OpenFTC
+# OpenBender
 An android app that lets people interact with their REV robotics hub in accordance to the FTC guidelines.
 
 ## Features
@@ -24,6 +24,15 @@ none
 
   - ARCore Support
     - For the SDK but core support has to be added in the actual app
+
+  - Phone Info (for SDK)
+    - Vibration
+    - Battery
+    - Files
+    - Volume
+    - Camera
+    - Accelerometer
+    - Gyro Rotation
 
 - Client (Robot)
   - Communication
